@@ -54,11 +54,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p>One of the biggest challenges to developing a swarm intelligent algorithm is the steps necessary to engineer the swarm’s emergent behavior and decision policy against the almost infinite combination of environmental variables. This project seeks to address that challenge by demonstrating how we can leverage reinforcement learning combined with a policy focused on exploration to train a swarm intelligent algorithm. To accomplish this, this project will first develop a reinforcement learning algorithm focused on Deep Q-Values Neural Networks. Next, this project will introduce the attributes of a swarm intelligent algorithm to determine if a multi-agent reinforcement learning network can develop swarm intelligence. If successful, a context control unit will be overlayed allowign a user to control the swarm. As shown in the image, below, this concept will use a standard reinforcement learning loop. For more discussion on the concept please reference the <a href="https://github.com/SWilliams17655/Multi-Agent-Reinforcement-Learning-Agent/wiki">wiki</a> for this project.</p>
+<p> Maritime security continues to be a challenge for many developing nations and is more frequently appearing in the news as governments compete to secure their economic exclusive zones (EEZ). The United Nations defines an EEZ as a region extending 200 miles from shore where a government has exclusive rights to mineral resources including fisheries.¹ The challenge they face is that illegal, unreported, and unregulated (IUU) fishing violates this international regulation, threatens global food security, and according to NOAA places developing nations, dependent on fisheries, at greatest risk.² The challenge in addressing illegal fishing is the vast size of the EEZ extends beyond the range of small vessels and shore-based sensors making it difficult to detect unlawful activity. 
+  
+<p> Combining commercial satellite imagery with computer vision algorithms offers a potential solution to address this problem. Commercially available satellite imagery is becoming increasingly available and AI solutions can be leveraged to filter through large datasets of satellite images, detecting those with vessels of interest. That being said, this solution depends on whether or not an algorithm could be trained for maritime vessels. For more discussion on the concept please reference the <a href="https://github.com/SWilliams17655/SAT-SCAN/wiki">wiki</a> for this project.</p> </p>
+  
 <br>
 <br>
 <div align="center">
-    <img src="https://github.com/SWilliams17655/Multi-Agent-Reinforcement-Learning-Agent/assets/114768010/fe303571-8bc1-4a6a-936e-1e995e6c594b" 
+    <img src="/assets/Architecture" 
     alt="Logo" width="800" height="500">
   </a>
 </div>
