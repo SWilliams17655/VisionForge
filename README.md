@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/SWilliams17655/SAT-SCAN">
-    <img src="https://github.com/SWilliams17655/SAT-SCAN/assets/114768010/2cb113d1-f390-4a21-b5bc-5bd9b21e9dd9" alt="Logo" width="200" height="200">
+    <img src="https://github.com/SWilliams17655/SAT-SCAN/assets/icon" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">Multi-Agent Reinforcement Learning for Swarms</h3>
