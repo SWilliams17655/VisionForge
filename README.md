@@ -61,7 +61,7 @@
 <br>
 <br>
 <div align="center">
-    <img src="/assets/Architecture" 
+    <img src="/assets/Architecture.png" 
     alt="Logo" width="800" height="500">
   </a>
 </div>
