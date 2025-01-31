@@ -17,7 +17,7 @@
     <a href="https://github.com/SWilliams17655/SAT-SCAN"><strong>Explore the Code»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/SWilliams17655/SAT-SCAN">View Demo</a>
+    <a href="https://medium.com/@sean.williams.3/applying-computer-vision-to-help-defeat-illegal-fishing-336725d7b256">View Article</a>
     ·
     <a href="https://github.com/SWilliams17655/SAT-SCAN/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
