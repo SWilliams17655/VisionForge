@@ -5,22 +5,23 @@
 <br />
 <div align="center">
   <a href="https://github.com/SWilliams17655/SAT-SCAN">
-    <img src="[https://github.com/SWilliams17655/SAT-SCAN/assets/icon.png](https://github.com/SWilliams17655/SAT-SCAN/blob/main/assets/icon.png)" alt="Logo" width="200" height="200">
+    <img src="/assets/icon.png" alt="Logo" width="200" height="200">
   </a>
 
-<h3 align="center">Multi-Agent Reinforcement Learning for Swarms</h3>
+<h3 align="center">SATSCAN</h3>
 
   <p align="center">
-    A research project looking at the applicability of reinforcement learning to train swarm intelligent algorithms.
-    <br />
-    <a href="https://github.com/SWilliams17655/Multi-Agent-Reinforcement-Learning-Agent"><strong>Explore the Code»</strong></a>
+    A research project creating computer vision software for training an ensemble of algorithms to detect illegal fishing vessels in commercially available satellite images.
     <br />
     <br />
-    <a href="https://github.com/SWilliams17655/Multi-Agent-Reinforcement-Learning-Agent">View Demo</a>
+    <a href="https://github.com/SWilliams17655/SAT-SCAN"><strong>Explore the Code»</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/SWilliams17655/SAT-SCAN">View Demo</a>
     ·
-    <a href="https://github.com/SWilliams17655/Multi-Agent-Reinforcement-Learning-Agent/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/SWilliams17655/SAT-SCAN/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/SWilliams17655/Multi-Agent-Reinforcement-Learning-Agent/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/SWilliams17655/SAT-SCAN/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
