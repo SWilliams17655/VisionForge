@@ -54,7 +54,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p> Maritime security continues to be a challenge for many developing nations and is more frequently appearing in the news as governments compete to secure their economic exclusive zones (EEZ). The United Nations defines an EEZ as a region extending 200 miles from shore where a government has exclusive rights to mineral resources including fisheries.¹ The challenge they face is that illegal, unreported, and unregulated (IUU) fishing violates this international regulation, threatens global food security, and according to NOAA places developing nations, dependent on fisheries, at greatest risk.² The challenge in addressing illegal fishing is the vast size of the EEZ extends beyond the range of small vessels and shore-based sensors making it difficult to detect unlawful activity. 
+<p> Maritime security continues to be a challenge for many developing nations and is more frequently appearing in the news as governments compete to secure their economic exclusive zones (EEZ). The United Nations defines an EEZ as a region extending 200 miles from shore where a government has exclusive rights to mineral resources including fisheries. The challenge they face is that illegal, unreported, and unregulated (IUU) fishing violates this international regulation, threatens global food security, and according to NOAA places developing nations, dependent on fisheries, at greatest risk. The challenge in addressing illegal fishing is the vast size of the EEZ extends beyond the range of small vessels and shore-based sensors making it difficult to detect unlawful activity. 
   
 <p> Combining commercial satellite imagery with computer vision algorithms offers a potential solution to address this problem. Commercially available satellite imagery is becoming increasingly available and AI solutions can be leveraged to filter through large datasets of satellite images, detecting those with vessels of interest. That being said, this solution depends on whether or not an algorithm could be trained for maritime vessels. For more discussion on the concept please reference the <a href="https://github.com/SWilliams17655/SAT-SCAN/wiki/Home">wiki</a> for this project.</p> </p>
   
@@ -69,8 +69,14 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
-* <img src="https://www.python.org/static/img/python-logo@2x.png" alt="Logo" width="200" height="60">
-
+<div class="row">
+  <div class="column">
+    <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="75" height="75">
+  </div>
+  <div class="column">
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="75" height="75">
+  </div>
+</div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Prerequisites
