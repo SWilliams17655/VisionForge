@@ -94,7 +94,7 @@ matplotlib~=3.8.4
    ```py
    git clone https://github.com/swilliams17655/SAT-SCAN.git
    ```
-2. Install required packages
+2. Install the required packages
    ```py
    pip install -r requirements.txt
    ```
@@ -121,7 +121,7 @@ Pending section
 
 Pending section
 
-See the [open issues](https://github.com/swilliams17655/multi-agent-reinforcement-learning-agent/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/swilliams17655/SAT-SCAN) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
