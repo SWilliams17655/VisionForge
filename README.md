@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/SWilliams17655/SAT-SCAN">
-    <img src="/assets/icon.png" alt="Logo" width="200" height="200">
+    <img src="/static/icon.png" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">SATSCAN</h3>
@@ -61,7 +61,7 @@
 <br>
 <br>
 <div align="center">
-    <img src="/assets/Architecture.png" 
+    <img src="/static/Architecture.png" 
     alt="Logo" width="800" height="500">
   </a>
 </div>
