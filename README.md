@@ -92,7 +92,7 @@ matplotlib~=3.8.4
 
 1. Clone the repo
    ```py
-   git clone https://github.com/swilliams17655/multi-agent-reinforcement-learning-agent.git
+   git clone https://github.com/swilliams17655/SAT-SCAN.git
    ```
 2. Install required packages
    ```py
@@ -100,7 +100,7 @@ matplotlib~=3.8.4
    ```
 3. Run main.py
    ```py
-   python main.py
+   python app.py
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -119,11 +119,7 @@ Pending section
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Reinforcement Learning
-    - [x] First level Deep Q Network
-    - [ ] Second Level Deep Q Network
-- [ ] Swarm Intelligence Attributes
-- [ ] Expert System
+Pending section
 
 See the [open issues](https://github.com/swilliams17655/multi-agent-reinforcement-learning-agent/issues) for a full list of proposed features (and known issues).
 
@@ -132,7 +128,7 @@ See the [open issues](https://github.com/swilliams17655/multi-agent-reinforcemen
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
@@ -152,7 +148,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed Under MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2025] [Sean Williams]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
