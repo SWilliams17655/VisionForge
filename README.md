@@ -69,8 +69,14 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
-* <img src="https://www.python.org/static/img/python-logo@2x.png" alt="Logo" width="200" height="60">
-
+<div class="row">
+  <div class="column">
+    <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="75" height="75">
+  </div>
+  <div class="column">
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="75" height="75">
+  </div>
+</div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Prerequisites
