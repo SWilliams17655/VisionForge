@@ -4,11 +4,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/SWilliams17655/SAT-SCAN">
+  <a href="https://github.com/SWilliams17655/VisionForge">
     <img src="/static/icon.png" alt="Logo" width="200" height="200">
   </a>
 
-<h3 align="center">SATSCAN</h3>
+<h3 align="center">VisionForge</h3>
 
   <p align="center">
     A research project creating computer vision software for training an ensemble of algorithms to detect illegal fishing vessels in commercially available satellite images.
